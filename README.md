@@ -7,4 +7,4 @@ This API can be verified with any geetest v4 version, By uploading the two param
 
 contact me: https://t.me/shineho
 
-update: 2023-03-10
+update: 2023-04-07
